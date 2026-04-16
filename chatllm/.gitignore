@@ -1,0 +1,12 @@
+build/
+data/
+*.o
+*.a
+*.so
+*.dylib
+chatllm
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
